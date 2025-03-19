@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋, I'm Daniel</h1>
 <h3 align="left">Former civil engineer turned full-stack developer. I started in e-commerce, built my own online store, and now, I’m all about crafting websites, apps, and cool digital experiences.Currently studying MSc AI & Robotics in the UK.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danialza" alt="danialza" /></a> </p>
-
 - 🌱 I’m currently learning **Machine Learning - AI**
 
 - 👨‍💻 All of my projects are available at [danielz.co.uk](danielz.co.uk)
