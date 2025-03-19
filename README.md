@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Machine Learning - AI**
 
-- 👨‍💻 All of my projects are available at [danielz.co.uk](danielz.co.uk)
+- 👨‍💻 All of my projects are available at [https://danielz.co.uk](https://danielz.co.uk)
 
-- 📝 I regularly write articles on [danielz.co.uk/blog/](danielz.co.uk/blog/)
+- 📝 I regularly write articles on [https://danielz.co.uk/blog/](https://danielz.co.uk/blog/)
 
 - 📫 How to reach me **danial.za@outlook.com**
 
-- 📄 Know about my experiences [danielz.co.uk/cv/](danielz.co.uk/cv/)
+- 📄 Know about my experiences [https://danielz.co.uk/cv/](https://danielz.co.uk/cv/)
 
 - ⚡ Fun fact **When I’m not building something, I’m probably debugging at 2 AM with a coffee in hand.**
 
