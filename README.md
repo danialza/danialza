@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Daniel</h1>
-<h3 align="left">Former civil engineer turned full-stack developer. I started in e-commerce, built my own online store, and now, I’m all about crafting websites, apps, and cool digital experiences.Currently studying MSc AI & Robotics in the UK.</h3>
+<h3 align="left">I started in e-commerce, built my own online store, and now, I’m all about crafting websites, apps, and cool digital experiences.Currently studying MSc AI & Robotics in the UK.</h3>
 
 - 🌱 I’m currently learning **Machine Learning - AI**
 
