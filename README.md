@@ -30,5 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danialza&show_icons=true&locale=en&layout=compact" alt="danialza" /></p>
 <br />
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=danialza.danialza&left_color=lightslategray&right_color=darkgray"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=danialza.danialza&left_color=white&right_color=white"  />
 </div>
