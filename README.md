@@ -3,8 +3,6 @@
 
 </h3>
 
-- 🌱 I’m currently learning **Machine Learning - AI**
-
 - 👨‍💻 All of my projects are available at [https://danielz.co.uk](https://danielz.co.uk)
 
 - 📝 I regularly write articles on [https://danielz.co.uk/blog/](https://danielz.co.uk/blog/)
