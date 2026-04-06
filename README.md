@@ -1,5 +1,7 @@
 <h1 align="left">Hi 👋, I'm Daniel</h1>
-<h3 align="left">I started in e-commerce, built my own online store, and now, I’m all about crafting websites, apps, and cool digital experiences.Currently studying MSc AI & Robotics in the UK.</h3>
+<h3 align="left">By day, I build high-performance web and mobile apps. By night, I teach machines how to learn and make GPUs run hot and explore the world of Robotics. Exploring the intersection of Software Engineering, Robotics, and AI. A space for my projects, technical thoughts, and everything in between.
+
+</h3>
 
 - 🌱 I’m currently learning **Machine Learning - AI**
 
