@@ -2,7 +2,7 @@
 
 <h3 align="left">Software Engineer | Building Reliable Products & Intelligent Systems</h3>
 
-I'm a software engineer with **7+ years of experience** designing, building, and maintaining software products and services. My background spans **web and e-commerce platforms, backend systems, native applications, applied AI, and robotics**.
+I'm a software engineer with **7+ years of experience** designing, building, and maintaining software products and services. My background spans **software architecture, backend services, native applications, applied AI, and robotics**.
 
 I enjoy solving practical engineering problems, making thoughtful architectural decisions, and building software that is **reliable, maintainable, and genuinely useful**. Lately, my work has brought together systems programming, AI-powered tools, and real-world experimentation.
 
@@ -19,7 +19,7 @@ I enjoy solving practical engineering problems, making thoughtful architectural 
 - **Performance & reliability** — profiling, benchmarking, resource-aware design, testing, and handling failures thoughtfully.
 - **Applied AI & developer tools** — LLM-powered products, copilots, multi-agent workflows, tool integration, and evaluation.
 - **Retrieval & data systems** — RAG, semantic search, vector databases, and grounded responses.
-- **Native & cross-platform development** — macOS apps, web experiences, and Flutter-based applications.
+- **Native & cross-platform development** — macOS apps, mobile interfaces, and Flutter-based applications.
 - **Robotics & machine learning** — reinforcement learning, control systems, sim-to-real evaluation, and experiments on real hardware.
 
 <h3 align="left">Selected projects & research</h3>
